@@ -1,0 +1,4 @@
+.idea/
+src/db.sqlite3
+src/manage.py
+src/merchex/__pycache__/

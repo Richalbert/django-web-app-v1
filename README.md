@@ -14,4 +14,7 @@ pip freeze > requirements.txt
 # Creation du projet
 django-admin startproject merchex  
 
+# Creation de l'application listings  
+python manage.py startapp listings  
+
 #EOF
